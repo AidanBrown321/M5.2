@@ -11,6 +11,7 @@ To get started, clone this repository and run the following commands:
 ```bash
 npm install
 ```
+
 This will install the necessary dependencies for the project.
 
 ## Development
@@ -27,3 +28,13 @@ To run the tests for the project, run the following command:
 ```bash
 npm test
 ```
+
+## Running The Site
+
+To run the site, you will need to run Live Preview: Start Server. To do this on VS Code, you
+can press ctrl + shift + p, then you should see the command listed. Once you click it, you
+can see the page either in the IDE or you can show it in the browser.
+
+## Accessibility Lab Answers
+
+Color:
