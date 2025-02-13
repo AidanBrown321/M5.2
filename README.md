@@ -43,7 +43,7 @@ contrast tests so it will need to be changed out for white or a lighter color. T
 fine and contrasts well with the black text.
 
 Semantic HTML: When you try to navigate it using a keyboard, there are no header tags or paragraph elements implemented, so it is hard to tell
-where you are on the site. I replaced the div class="nav with an actual nav elements and added paragraph tags throughout the article.
+where you are on the site if you were using a screen reader. Also, not all of buttons are accessible like the show comments button that it is at the bottom. I replaced the div class="nav" with an actual nav elements and added paragraph tags throughout the article.
 
 Images: I added alt text to all of the images.
 
